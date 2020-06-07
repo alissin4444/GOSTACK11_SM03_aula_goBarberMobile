@@ -14,9 +14,9 @@ Através desse módulo do bootcamp gostack11, eu pude compreender e aprender con
 - Usabilidade Mobile
 
 ## IMAGENS
-<img src="https://i.imgur.com/tC0F7g1.jpg" width="800">
-<img src="https://i.imgur.com/rUOG4Uz.jpg" width="800">
-<img src="https://i.imgur.com/uNAe0nj.jpg" width="800">
+<img src="https://i.imgur.com/tC0F7g1.jpg" width="400">
+<img src="https://i.imgur.com/rUOG4Uz.jpg" width="400">
+<img src="https://i.imgur.com/uNAe0nj.jpg" width="400">
 
 ## INSTRUÇÕES PARA UTILIZAÇÃO
 
